@@ -1,2 +1,2 @@
-# relic-statistics-tool
-A Qt-based relic attribute simulator for Honkai: Star Rail
+星穹铁道遗器词条统计工具（Qt）
+一个使用 Qt 编写的图形化工具，用于模拟游戏遗器刷取并估算获得特定词条组合的期望次数。
